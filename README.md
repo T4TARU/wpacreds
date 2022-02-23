@@ -3,9 +3,9 @@ a list of passwords found while cracking WPA2 handshakes
 
 -----
 # Used wordlist generator from my other repo
-[wpapasswdgen](https://github.com/T4TARU/wpapasswdgen.git)
+[wpawordgen](https://github.com/T4TARU/wpawordgen.git)
 ```bash
-git clone https://github.com/T4TARU/wpapasswdgen.git
+git clone https://github.com/T4TARU/wpawordgen.git
 ```
 
 -----
