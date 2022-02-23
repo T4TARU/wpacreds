@@ -19,4 +19,4 @@ git clone https://github.com/T4TARU/wpapasswdgen.git
 ### only tested on Spectrum Networks, may work on others using the adjective + noun + 3 digit keyspace
 
 # Join my Discord Server
-(T4TARU Discord)[https://discord.gg/yq9tXV2M]
+[T4TARU Discord](https://discord.gg/yq9tXV2M)
