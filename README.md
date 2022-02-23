@@ -10,5 +10,10 @@ t4taru@kali: ~ $ git clone https://github.com/T4TARU/wpapasswdgen.git
 
 -----
 ## SSIDs Audited
-- MySpectrumWiFid8-2G, MySpectrumWiFid8-5G
-- SpectrumSetup-27
+### Replace XX to match your exact SSID
+ 
+- MySpectrumWiFiXXd8-2G, MySpectrumWiFiXX-5G
+- SpectrumSetup-XX
+
+## Vulnerable Networks with Default Password
+### only tested on Spectrum Networks, may work on others using the adjective + noun + 3 digit keyspace
